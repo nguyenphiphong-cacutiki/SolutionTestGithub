@@ -48,7 +48,7 @@ namespace SolutionTestGithub
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(224, 247);
+            this.button2.Location = new System.Drawing.Point(75, 200);
             this.button2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(100, 28);
@@ -58,7 +58,7 @@ namespace SolutionTestGithub
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(259, 175);
+            this.button3.Location = new System.Drawing.Point(813, 90);
             this.button3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(100, 28);
@@ -77,7 +77,7 @@ namespace SolutionTestGithub
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(126, 193);
+            this.button5.Location = new System.Drawing.Point(544, 76);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(75, 23);
             this.button5.TabIndex = 4;
