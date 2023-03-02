@@ -77,7 +77,7 @@ namespace SolutionTestGithub
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(544, 76);
+            this.button5.Location = new System.Drawing.Point(581, 468);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(75, 23);
             this.button5.TabIndex = 4;
